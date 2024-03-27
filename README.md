@@ -41,7 +41,8 @@
 
 
 ## [3-5주차] React로 messenger 만들기
-<img width="828" alt="02" src="https://github.com/corinthionia/ceos-14th-frontend/assets/79887293/92f8f3cc-199d-466c-8437-e89f4585d2b4">
+<img width="1344" alt="03" src="https://github.com/corinthionia/ceos-14th-frontend/assets/79887293/9b6a5ae7-6a48-4c5a-bb92-b4d2bbb37d55">
+
 
 <br/>
 <br/>
