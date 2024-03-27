@@ -6,7 +6,8 @@
 <br/>
 
 ## [1주차] Vanilla JS로 To-do list 만들기
-<img width="827" alt="스크린샷 2023-05-24 오후 1 07 53" src="https://github.com/corinthionia/node-bird/assets/79887293/1535f5f2-97d3-4358-b110-7e9883fbd2bc">  
+<img width="827" alt="01" src="https://github.com/corinthionia/ceos-14th-frontend/assets/79887293/6e803a6e-1d53-4145-85f8-3bc6fde6c1a3">
+
 
 <br/>
 <br/>
@@ -22,7 +23,8 @@
 
 
 ## [2주차] React로 To-do list 만들기
-<img width="828" alt="스크린샷 2023-05-24 오후 1 16 37" src="https://github.com/corinthionia/node-bird/assets/79887293/a0f5f91e-9f6b-489f-a989-714625db6afb">
+<img width="828" alt="02" src="https://github.com/corinthionia/ceos-14th-frontend/assets/79887293/b8cc1005-a794-4e08-80cb-613ca2dccfbd">
+
 
 <br/>
 <br/>
@@ -39,8 +41,7 @@
 
 
 ## [3-5주차] React로 messenger 만들기
-<img width="1344" alt="스크린샷 2023-05-24 오후 5 25 45" src="https://github.com/corinthionia/node-bird/assets/79887293/710d00da-b462-4dc6-902a-22fd210cdcdf">
-
+<img width="828" alt="02" src="https://github.com/corinthionia/ceos-14th-frontend/assets/79887293/92f8f3cc-199d-466c-8437-e89f4585d2b4">
 
 <br/>
 <br/>
@@ -57,9 +58,9 @@
 <br/>
 <br/>
 
-
 ## [6-7주차] React로 15기 파트장 투표 서비스 만들기
-![Dec-26-2021 18-30-37](https://user-images.githubusercontent.com/79887293/147411876-30de1759-0f6f-465d-9702-b353fbd10f1f.gif)<br/>
+![04](https://github.com/corinthionia/ceos-14th-frontend/assets/79887293/6309a670-6f6b-4aaf-a680-bf2d4493b5e4)
+
 
 <br/>
 
